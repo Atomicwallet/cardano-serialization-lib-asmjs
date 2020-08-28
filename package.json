@@ -1,0 +1,12 @@
+{
+  "name": "cardano-serialization-lib",
+  "version": "2.1.0",
+  "files": [
+    "cardano_serialization_lib_bg.wasm",
+    "cardano_serialization_lib.js",
+    "cardano_serialization_lib.d.ts"
+  ],
+  "module": "cardano_serialization_lib.js",
+  "types": "cardano_serialization_lib.d.ts",
+  "sideEffects": false
+}
