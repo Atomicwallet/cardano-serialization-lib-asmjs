@@ -2,7 +2,8 @@
   "name": "cardano-serialization-lib-asmjs",
   "version": "2.1.0",
   "files": [
-    "cardano_serialization_lib_bg.wasm",
+    "cardano_serialization_lib.asm.js",
+    "cardano_serialization_lib_bg.js",
     "cardano_serialization_lib.js",
     "cardano_serialization_lib.d.ts"
   ],
